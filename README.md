@@ -9,7 +9,7 @@ pip3 install openai
 
 Get into the package folder and Into the termirnal/powershell run the following command
 ```
-sh recipe_gen.sh
+chmod +x recipe_gen.sh
 ```
 
 Run the command
